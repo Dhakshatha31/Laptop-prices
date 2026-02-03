@@ -22,7 +22,7 @@ The dataset includes:
 - Operating System
 - Graphics
 - Price
-# 📷 Dashboard Preview
+#  Dashboard Preview
 Screenshots of the Power BI dashboard are included in this repository for reference.
 # How to Use
 1. Download the `.pbix` file from the repository
